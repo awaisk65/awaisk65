@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Awais Khan 👋
 
-<!--
-**awaisk65/awaisk65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Embedded Systems Developer | Python | Robotics | PX4 | ROS
 
-Here are some ideas to get you started:
+- 🏢 Working at **National Aerospace Science & Technology Park (NASTP)**
+- 📍 Based in **Rawalpindi, Pakistan**
+- 💻 Passionate about building intelligent embedded systems, robotics, and automation
+- 🔬 Experienced in **Python**, **PX4**, **ROS**, and more
+- 🌐 Website: [nastp.gov.pk](https://nastp.gov.pk/)
+- 📫 Email: awaisk65@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- Design and develop cutting-edge embedded solutions for aerospace and robotics.
+- Integrate advanced algorithms with real-world hardware for robust, scalable systems.
+- Explore open-source projects, especially in the domains of robotics, PX4, and ROS.
+
+---
+
+## 🛠️ Skills
+
+- Embedded Systems | Robotics | Automation
+- Programming: Python, C/C++
+- PX4 Autopilot & Drone Development
+- Robot Operating System (ROS)
+- Hardware Integration & Firmware Development
+
+---
+
+## 📫 Let's Connect
+
+- [GitHub](https://github.com/awaisk65)
+- [Email](mailto:awaisk65@gmail.com)
+- [Website](https://nastp.gov.pk/)
+
+---
+
+<p align="center">
+  <b>Always learning. Always building. Always exploring.</b>
+</p>
